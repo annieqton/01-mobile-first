@@ -81,6 +81,8 @@
   }
   .main-nav li {
     display: inline;
-    padding: 1.5em;
+    padding-right: 1.5em;
+    padding-left: 2em;
+    margin-left: 10px;
   }
 }
